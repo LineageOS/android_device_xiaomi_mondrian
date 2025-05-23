@@ -555,12 +555,14 @@
                <priority>1</priority>
                <samplerate>48000</samplerate>
                <bit_width>24</bit_width>
+               <snd_device_name>voice-headphones</snd_device_name>
            </usecase>
            <usecase>
                <name>PAL_STREAM_VOIP_RX</name>
                <priority>2</priority>
                <samplerate>48000</samplerate>
                <bit_width>24</bit_width>
+               <snd_device_name>voice-headphones</snd_device_name>
            </usecase>
         </out-device>
         <out-device>
@@ -596,12 +598,14 @@
                <priority>1</priority>
 	       <samplerate>48000</samplerate>
                <bit_width>24</bit_width>
+               <snd_device_name>voice-headphones</snd_device_name>
            </usecase>
            <usecase>
                <name>PAL_STREAM_VOIP_RX</name>
                <priority>2</priority>
                <samplerate>48000</samplerate>
                <bit_width>24</bit_width>
+               <snd_device_name>voice-headphones</snd_device_name>
            </usecase>
          </out-device>
         <out-device>
