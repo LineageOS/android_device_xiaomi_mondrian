@@ -118,8 +118,8 @@
             <keys_and_values Direction="TX" Instance="1">
                 <!-- STREAMTX - PCM_RECORD -->
                 <graph_kv key="0xB1000000" value="0xB1000001"/>
-                <!-- INSTANCE - INSTANCE_1 -->
-                <graph_kv key="0xAB000000" value="0x1"/>
+                <!-- INSTANCE - INSTANCE_2 -->
+                <graph_kv key="0xAB000000" value="0x2"/>
             </keys_and_values>
         </stream>
         <!-- Compressed-playback stream -->
